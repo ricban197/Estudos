@@ -1,2 +1,2 @@
 # Estudos
-Projetos para estudar novas tecnologias
+Repositório para estudos de novas tecnologias e soluções.
